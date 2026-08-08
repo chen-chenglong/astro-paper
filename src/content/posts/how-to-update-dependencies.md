@@ -1,5 +1,5 @@
 ---
-title: How to update dependencies of AstroPaper
+title: 必然是重点额
 author: Sat Naing
 pubDatetime: 2023-07-20T15:33:05.569Z
 slug: how-to-update-dependencies
