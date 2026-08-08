@@ -32,3 +32,9 @@
   --muted-foreground: #afb9ca;
   --border: #ab4b08;
 }
+/* 强制隐藏 AstroPaper 的所有波浪下划线 */
+.active,
+a:hover,
+a:focus-visible {
+  text-decoration: none !important;
+}

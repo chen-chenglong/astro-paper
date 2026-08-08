@@ -8,7 +8,6 @@ draft: false
 tags:
   - Ai
   - Claude
-canonicalURL: https://chenchenglong.com/posts/claude-unban-guide/
 description: 自己的claude账号被封，看看能不能拯救一下，参考这个实践指南吧。
 ---
 
