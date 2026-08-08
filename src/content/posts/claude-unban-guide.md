@@ -17,7 +17,7 @@ Your account has been suspended
 我在想我也没干什么呢？之前的包月claude pro使用一个月都没问题，我的信用卡也是真实的，唯独可能是多台电脑登录造成IP的偏移问题。  
 
 首先尝试在电脑上解决，登录被封的claude账号可以看到：  
-![claude-unban-guide](./claude-unban-guide-01.png)  
+![claude-unban-guide](../../assets/images/claude-unban-guide-01.png)  
 
 那么只能按照这个步骤了  
 
@@ -33,7 +33,7 @@ Your account has been suspended
 提交官方复核申请（Request a Review）
 点击页面中间的黑色按钮 Request a review，在弹出的表格或输入框中填写申诉说明。  
 
-![claude-unban-guide](./claude-unban-guide-02.png)  
+![claude-unban-guide](../../assets/images/claude-unban-guide-02.png)  
 
 申诉要点与建议：
 保持网络环境稳定：提交申诉时，请连接稳定且干净的代理节点（避免频繁切换节点或使用多人共享的公用梯子，这往往是触发 unusual activity 的主因）。
@@ -45,7 +45,7 @@ Your account has been suspended
 
 第三步：等待复核结果  
 
-![claude-unban-guide](./claude-unban-guide-03.png)  
+![claude-unban-guide](../../assets/images/claude-unban-guide-03.png)  
 
 根据界面提示，接下来就是排队等审核了，通常需要 10 天左右（Reviews take about 10 days）。
 
