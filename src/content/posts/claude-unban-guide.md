@@ -1,5 +1,5 @@
 ---
-author: chen
+author: 陈
 pubDatetime: 2026-08-08
 modDatetime: 2026-08-08
 title: 解锁自己被封的claude账号参考指南

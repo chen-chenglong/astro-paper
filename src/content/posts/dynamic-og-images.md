@@ -1,15 +1,15 @@
 ---
-author: Sat Naing
+author: 陈
 pubDatetime: 2022-12-28T04:59:04.866Z
 modDatetime: 2026-06-03T00:00:00.000Z
-title: Dynamic OG image generation in AstroPaper blog posts
-slug: dynamic-og-image-generation-in-astropaper-blog-posts
+title: 贵在一个中文的博客
+slug: astropaper-blog-posts
 featured: false
 draft: false
 tags:
   - docs
   - release
-description: New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
+description: 这里是一个描述的范围。
 ---
 
 New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
